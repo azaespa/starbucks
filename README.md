@@ -8,7 +8,7 @@ Identify:
 	- Logo
 		- Starbucks logo
 	- Images
-	 	- Ice Frappucino Image
+	 	- Ice Frappucino Image ✅
 		- Coffee bean
 		- Leaf
 		- Cup & cap of Starbucks coffee
